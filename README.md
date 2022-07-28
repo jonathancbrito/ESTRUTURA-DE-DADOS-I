@@ -1,5 +1,7 @@
 Um motorista de aplicativo recebeu uma corrida para realizar. A localização atual do motorista é representada a seguir pelo vértice número 1 (um) e a corrida está no vértice de número 5 (cinco). 
 
+![image](https://user-images.githubusercontent.com/73788864/181633020-e138253f-5fbf-4ef3-98bb-7bc4c02305f1.png)
+
 
 O grafo acima exibe todas as rotas para alcançar o destino a partir do ponto de partida. O destino da corrida é o vértice indicado pelo número 5 (cinco). As possíveis rotas são representadas pelos demais vértices que vão de 1 (um), que é a origem, a 4 (quatro).  
 
